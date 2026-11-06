@@ -1,0 +1,15 @@
+{
+	"name": "databricks-couse-with-adfg",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2596e57b-9d46-4313-af73-3397364474d8",
+		"tenantId": "9f3051c9-4f67-407e-8548-d29b15b13a75"
+	}
+}
